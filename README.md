@@ -1,3 +1,13 @@
+BAI1:
+<img width="1556" height="429" alt="image" src="https://github.com/user-attachments/assets/98ab934d-425e-4ee9-ba7f-4ee78dcbf344" />
+
+
+BAI2:
+<img width="897" height="106" alt="image" src="https://github.com/user-attachments/assets/919172ea-811f-47a4-8e02-c4cc1bc10584" />
+
+BAI3: 
+<img width="1306" height="289" alt="image" src="https://github.com/user-attachments/assets/6ec04393-eb36-4e69-9c5e-baad477f80da" />
+
 BAI4: 
 <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/d28182b6-cb1c-432a-a3aa-6cc4568820c9" />
 
