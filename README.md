@@ -1,3 +1,6 @@
+BAI4: 
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/d28182b6-cb1c-432a-a3aa-6cc4568820c9" />
+
 BAI5 :
 <img width="800" height="116" alt="image" src="https://github.com/user-attachments/assets/28a73783-f721-4ab3-9c39-daf94cc0e242" />
 
